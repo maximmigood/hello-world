@@ -1,5 +1,5 @@
 # hello-world
-my first project on github
+first project
 I teach
 and i don't know, what write anymore.
 Hello all people in the World
